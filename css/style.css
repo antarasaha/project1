@@ -112,7 +112,8 @@ body{
 }
 
 .dropdown:hover .dropbtn {
-    background-color: #02ac82;
+    
+    background-color:#018967;
 }
 
 .dropdown-toggle::after {
@@ -313,7 +314,7 @@ h2{
     background-size: cover;
     display: flex;
     flex-direction: column;
-
+  
 }
 
 @media (max-width: 576px) {
