@@ -6,6 +6,8 @@
 body {
     background-color: #02ac82;
     overflow-x: hidden;
+    margin: 0;
+    padding: 0;
 }
 
 .float-left {
@@ -77,7 +79,7 @@ body {
 }
 
 .navbar-nav li {
-    padding-left: 12px;
+    padding-left: 8px;
 }
 
 /*dropdown*/
@@ -88,7 +90,6 @@ body {
 
 .dropbtn {
     background-color: #02ac82;
-    ;
     font-size: 16px;
     border: none;
     display: block;
@@ -164,7 +165,7 @@ body {
 .slider {
     background-image: url("../images/slider.png");
     background-size: cover;
-    height: 100vh;
+    height: 80vh;
     display: flex;
     flex-direction: column;
     background-repeat: no-repeat;
@@ -511,7 +512,7 @@ h2 {
     .fontone {
         font-size: 12px;
     }
-    hr {
+    .blue-hr {
         width: 120px;
     }
     .image img {
