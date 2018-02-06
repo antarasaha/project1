@@ -165,7 +165,7 @@ body {
 .slider {
     background-image: url("../images/slider.png");
     background-size: cover;
-    height: 80vh;
+    height: 100vh;
     display: flex;
     flex-direction: column;
     background-repeat: no-repeat;
